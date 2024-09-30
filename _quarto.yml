@@ -18,8 +18,8 @@ website:
         text: Bibliography
       - href: 5_collaborators.qmd
         text: Collaborators
-      - icon: github
-        href: "https://github.com/afonsopoester"
+     # - icon: github
+      #  href: "https://github.com/afonsopoester"
       - text: "{{< iconify simple-icons researchgate >}}"
         href: "https://www.researchgate.net/profile/Joao-Afonso-Poester-Carvalho-2"
       - text: "{{< iconify academicons google-scholar-square >}}"
