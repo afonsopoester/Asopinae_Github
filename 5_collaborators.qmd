@@ -3,11 +3,10 @@ title: "Collaborators"
 editor: visual
 ---
 
+-   Talita Roell
 
-- Talita Roell
+-   Luiz Alexandre Campos
 
-- Luiz Alexandre Campos
+-   Augusto Ferrari
 
-- Augusto Ferrari
-
-- João Afonso Poester Carvalho
+-   João Afonso Poester Carvalho
